@@ -1,0 +1,5 @@
+org\ass\calculator\entity\UserEntity.class
+org\ass\calculator\repository\UserRepository.class
+org\ass\calculator\dto\UserDto.class
+org\ass\calculator\App.class
+org\ass\calculator\util\ConnectionProperiesUtil.class
